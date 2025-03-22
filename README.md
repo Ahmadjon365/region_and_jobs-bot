@@ -12,19 +12,23 @@ This is a Telegram bot that provides information about regions and job opportuni
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ahmadjon365/region_and_jobs-bot.git```
+   git clone https://github.com/Ahmadjon365/region_and_jobs-bot.git
+   ```
 2. Navigate to the project directory:
    ```bash
-   cd region_and_jobs-bot```
+   cd region_and_jobs-bot
+   ```
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+   ```
 
 ## 🚀 Usage
 
 1. Run the bot:
    ```bash
-   python main.py```
+   python main.py
+   ```
 2. Start a conversation with your bot on Telegram.
 3. 🔍 Use commands to retrieve region and job-related information.
 
